@@ -38,10 +38,10 @@ The app is designed to empower individuals to track their BMI and understand whe
 
 ## Demo and Resources
 #### To see **Vitalis** in action, check out the video below:
+https://github.com/user-attachments/assets/a6fe0846-ef69-4f08-8325-3714bb379a9d
 
 
-
-#### Explore the application post on LinkedIn: <a target="_blank" href="*************"> Click Here. </a>
+#### Explore the application post on LinkedIn: <a target="_blank" href="https://www.linkedin.com/posts/theahmedhany_cognoriseinfotech-internship-dart-activity-7246477421741281281-ggFZ?utm_source=share&utm_medium=member_desktop"> Click Here. </a>
 
 -----
 
